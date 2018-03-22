@@ -2,6 +2,9 @@
 
 > A simple shopping cart built with Vue 2 + Vuex
 
+# Live version
+
+Access the demo app [here](https://nairobley.github.io/vuex-cart/#/)
 ## Build Setup
 
 ``` bash
